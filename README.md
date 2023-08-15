@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **kubernetes,kafka, django**
 
-- 📫 How to reach me **billooko22gmail.com**
+- 📫 How to reach me **Billooko2@gmail.com**
 
 - 📄 Know about my experiences [https://billkolos/github.io](https://billkolos/github.io)
 
