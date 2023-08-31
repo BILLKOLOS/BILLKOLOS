@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bill Clinton</h1>
-<h3 align="center">A junior back end engineer from Kenya</h3>
+<h1 align="center"> Greetings 👋, I'm Bill Clinton Ooko </h1>
+<h3 align="center">A junior level  back end engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billkolos&label=Profile%20views&color=0e75b6&style=flat" alt="billkolos" /> </p>
 
