@@ -1,0 +1,53 @@
+.grid {
+    grid-template-areas:
+          'home about projects resume'
+          'portrait portrait intro intro'
+          'portrait portrait intro intro'
+          'bio1 bio1 bio2 bio2'
+          'bio1 bio1 bio2 bio2';
+}
+
+.home {
+    grid-area: home;
+}
+
+.resume {
+    grid-area: resume;
+}
+
+.projects {
+    grid-area: projects;
+}
+
+.about {
+    grid-area: about;
+}
+
+.portrait {
+    grid-area: portrait;
+    background-image: url(resources/Portrait.jpg);
+    background-size: cover;
+}
+
+.intro {
+    grid-area: intro;
+    text-align: left;
+    justify-content: unset;
+}
+
+.bio1 {
+    grid-area: bio1;
+    text-align: left;
+    justify-content: unset;
+}
+
+.bio2 {
+    grid-area: bio2;
+    text-align: left;
+    justify-content: unset;
+}
+
+.logo {
+    filter: brightness(0%) invert();
+    width: 85%;
+}
