@@ -1,5 +1,5 @@
-<h1 align="center">Welcome Bill Clinton Ooko</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Welcome, I am Bill Clinton Ooko</h1>
+<h3 align="center">A junior fullstack engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billkolos&label=Profile%20views&color=0e75b6&style=flat" alt="billkolos" /> </p>
 
